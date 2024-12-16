@@ -21,7 +21,7 @@ We apply CSS to create the hover zoom effect:
 - When a user hovers over an image, its width increases, revealing details like the image name and related skills.
 - Smooth transition effects are used to create a pleasant experience.
 
-### Visit Website for More Details About the Landing Page
+### Visit Website for More Details About the Image Zoom on Hover
 
 [Image Zoom On Hover](https://layakcoder.com/image-zoom-on-hover/)
 
